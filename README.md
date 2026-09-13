@@ -9,7 +9,7 @@ A physical triage and control panel for [Herdr](https://herdr.dev). Pin threads,
 Requires Herdr 0.8.0 or newer and a Stream Deck+.
 
 ```text
-herdr plugin install Pimpmuckl/herdr-streamdeck
+herdr plugin install JJLiebig/herdr-streamdeck
 ```
 
 Accept the Stream Deck install prompt on Windows or macOS. Linux uses [OpenDeck](https://github.com/nekename/OpenDeck) and requires a restart after installation. macOS and Linux support is experimental and unproven.
